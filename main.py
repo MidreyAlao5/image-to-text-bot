@@ -1,3 +1,4 @@
+import os
 import logging
 import pytesseract
 from PIL import Image
