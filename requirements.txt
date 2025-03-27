@@ -1,6 +1,5 @@
 python-telegram-bot
 pytesseract
 pillow
-tesseract
 gtts
 googletrans
