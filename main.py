@@ -10,6 +10,7 @@ from telegram.ext import (
     filters, CallbackContext
 )
 from googletrans import Translator
+pytesseract.pytesseract.tesseract_cmd = "/usr/bin/tesseract"
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
