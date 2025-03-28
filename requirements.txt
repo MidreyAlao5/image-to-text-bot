@@ -1,5 +1,6 @@
 python-telegram-bot
 pytesseract
+openai
 pillow
 gtts
 googletrans
